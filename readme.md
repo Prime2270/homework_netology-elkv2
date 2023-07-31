@@ -8,7 +8,7 @@
 
 ![job1](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job1.png)
 
-![job1elasicsearch]()
+![job1elasicsearch](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job1elasicsearch.png)
 
 ```
 установка elasticsearch:
@@ -52,7 +52,7 @@ curl -X GET 'localhost:9200/_cluster/health?pretty'
 
 ![job2](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job2.png)
 
-![job2kibana]()
+![job2kibana](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job2kibana.png)
 
 ```
 установим kibana:
@@ -84,11 +84,11 @@ systemctl restart kibana.service
 
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.
 
-![job3.1]()
+![job3.1](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job3.1.png)
 
-![job3.2]()
+![job3.2](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job3.2.png)
 
-![job3logstash]()
+![job3logstash](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job3logstash.png)
 
 ```
 установка nginx
@@ -151,9 +151,9 @@ nano /var/log/logstash/logstash-plain.log
 
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.
 
-![job4]()
+![job4](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job4.png)
 
-![job4filebeat]()
+![job4filebeat](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job4filebeat.png)
 
 ```
 установка filebeat:
