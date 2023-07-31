@@ -6,7 +6,7 @@
 
 Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name.
 
-![job1]()
+![job1](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job1.png)
 
 ### Задание 2
 
@@ -14,7 +14,9 @@
 
 Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty.
 
-![job2]()
+![job2](https://github.com/Prime2270/homework_netology-elkv2/blob/main/screenshots/job2.png)
+
+### В процессе поднятия нового стека т.к. старая виртуалка перестала запускаться
 
 ### Задание 3
 
